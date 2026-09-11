@@ -2,6 +2,8 @@
 
 ### Laberinto interactivo con preguntas bíblicas
 
+**▶ [Jugar ahora](https://diegoandresvillarrealcastillo-maker.github.io/viaje-de-bernabe/)**
+
 > *"He peleado la buena batalla, he acabado la carrera, he guardado la fe."* — 2 Timoteo 4:7
 
 ---
@@ -45,10 +47,10 @@ Desarrollado en HTML, CSS y JavaScript sin librerías externas.
 ## 🗂 Estructura de archivos
 
 ```
-dinamica3/
-├── bernabe-juego.html   ← Juego principal (estructura y estilos base)
-├── script.js            ← Lógica: laberintos, preguntas, audio, progreso
-└── style.css            ← Estilos: paleta de pergamino, pantallas y HUD
+viaje-de-bernabe/
+├── index.html   ← Estructura de las pantallas del juego
+├── script.js    ← Lógica: laberintos, preguntas, audio, progreso
+└── style.css    ← Estilos: paleta de pergamino, pantallas y HUD
 ```
 
 ---
@@ -64,4 +66,4 @@ dinamica3/
 
 ## 🖥 Cómo ejecutarlo
 
-Abre `bernabe-juego.html` en cualquier navegador moderno. No requiere instalación, servidor ni conexión a internet.
+Ábrelo en línea desde [GitHub Pages](https://diegoandresvillarrealcastillo-maker.github.io/viaje-de-bernabe/), o descarga el repositorio y abre `index.html` en cualquier navegador moderno. No requiere instalación ni servidor.
